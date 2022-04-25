@@ -1,0 +1,7 @@
+Life Cycle of a spring bean has 5 stages:
+
+--> Does not Exist phase
+--> Instantiated phase
+--> Initialized phase
+--> Service phase
+--> Destroy phase
